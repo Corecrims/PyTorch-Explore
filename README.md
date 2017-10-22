@@ -6,3 +6,5 @@ Learning PyTorch in an experimental way
 
 - Simple sentiment analyser from IMDB reviews
   refer to http://ai.stanford.edu/~amaas/data/sentiment/ for the dataset 
+- Convolutional Neural Net from IMDB reviews 
+  refer to http://ai.stanford.edu/~amaas/data/sentiment/ for the dataset
