@@ -8,3 +8,5 @@ Learning PyTorch in an experimental way
   refer to http://ai.stanford.edu/~amaas/data/sentiment/ for the dataset 
 - Convolutional Neural Net from IMDB reviews 
   refer to http://ai.stanford.edu/~amaas/data/sentiment/ for the dataset
+- Creating custom Dataloaders
+  refer to http://ai.stanford.edu/~amaas/data/sentiment/ for the dataset
