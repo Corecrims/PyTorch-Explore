@@ -12,3 +12,5 @@ Learning PyTorch in an experimental way
   refer to http://ai.stanford.edu/~amaas/data/sentiment/ for the dataset
 - NER using RNN
   refer to https://github.com/manubharghav/NER/raw/master/data.zip for the dataset 
+- LSTM sentiment analysis 
+
